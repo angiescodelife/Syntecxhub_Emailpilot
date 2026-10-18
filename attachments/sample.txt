@@ -1,0 +1,6 @@
+
+This is a sample attachment created to test EmailPilot.
+
+Email automation project: Python
+Feature: Automatic email attachments
+Status: Testing
